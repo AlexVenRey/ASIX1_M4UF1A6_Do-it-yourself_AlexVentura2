@@ -1,0 +1,36 @@
+h1{
+    text-decoration: underline;
+    background-color:white;
+    color:black
+}
+
+#titulo{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+.centrado h1{
+    text-align: center;
+}
+
+h2{
+    font-weight: 100;
+}
+
+body{
+    margin: 10px;
+}
+
+img{
+    border: solid;
+    border-radius: 5%;
+}
+
+ul{
+    color: aqua;
+}
+
+li{
+    border: solid;
+}
